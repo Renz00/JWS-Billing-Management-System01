@@ -1,0 +1,87 @@
+[04-Aug-2018 22:51:31 Asia/Manila] PHP Parse error:  syntax error, unexpected '*' in /home/jwsbmsin/public_html/application/models/JWS_model.php on line 286
+[04-Aug-2018 22:52:31 Asia/Manila] PHP Parse error:  syntax error, unexpected '*' in /home/jwsbmsin/public_html/application/models/JWS_model.php on line 286
+[04-Aug-2018 22:55:39 Asia/Manila] PHP Parse error:  syntax error, unexpected '*' in /home/jwsbmsin/public_html/application/models/JWS_model.php on line 286
+[04-Aug-2018 22:58:32 Asia/Manila] PHP Parse error:  syntax error, unexpected '*' in /home/jwsbmsin/public_html/application/models/JWS_model.php on line 286
+[04-Aug-2018 22:59:03 Asia/Manila] PHP Parse error:  syntax error, unexpected '*' in /home/jwsbmsin/public_html/application/models/JWS_model.php on line 286
+[10-Aug-2018 13:48:51 Asia/Manila] PHP Parse error:  syntax error, unexpected ':' in /home/jwsbmsin/public_html/application/views/billed_consumers.php on line 104
+[13-Aug-2018 08:51:26 Asia/Manila] PHP Fatal error:  Can't use function return value in write context in /home/jwsbmsin/public_html/application/views/logs.php on line 107
+[13-Aug-2018 08:51:31 Asia/Manila] PHP Fatal error:  Can't use function return value in write context in /home/jwsbmsin/public_html/application/views/logs.php on line 107
+[16-Aug-2018 13:03:33 Asia/Manila] PHP Parse error:  syntax error, unexpected '>' in /home/jwsbmsin/public_html/application/views/acc_consumer_bills.php on line 53
+[18-Aug-2018 22:46:33 Asia/Manila] PHP Fatal error:  Call to undefined function itexmo() in /home/jwsbmsin/public_html/application/controllers/Main.php on line 34
+[29-Aug-2018 11:23:24 Asia/Manila] PHP Parse error:  syntax error, unexpected '/' in /home/jwsbmsin/public_html/application/views/consumer_ledger.php on line 428
+[03-Sep-2018 13:34:15 Asia/Manila] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home/jwsbmsin/public_html/application/controllers/Main.php on line 30
+[05-Sep-2018 21:18:35 Asia/Manila] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/jwsbmsin/public_html/application/views/abstract_reports.php on line 72
+[05-Sep-2018 21:19:54 Asia/Manila] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/jwsbmsin/public_html/application/views/abstract_reports.php on line 72
+[05-Sep-2018 21:21:08 Asia/Manila] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/jwsbmsin/public_html/application/views/abstract_reports.php on line 72
+[08-Sep-2018 14:25:07 Asia/Manila] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/jwsbmsin/public_html/application/views/abstract_reports.php on line 380
+[08-Sep-2018 14:25:48 Asia/Manila] PHP Parse error:  syntax error, unexpected '<' in /home/jwsbmsin/public_html/application/views/abstract_reports.php on line 381
+[10-Sep-2018 19:32:46 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[10-Sep-2018 19:33:30 Asia/Manila] PHP Fatal error:  Call to undefined function 2018-August() in /home/jwsbmsin/public_html/application/controllers/Main.php on line 1949
+[10-Sep-2018 19:36:10 Asia/Manila] PHP Fatal error:  Call to undefined function 2018-August() in /home/jwsbmsin/public_html/application/controllers/Main.php on line 1923
+[10-Sep-2018 19:43:55 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[10-Sep-2018 19:46:21 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[10-Sep-2018 19:49:20 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[10-Sep-2018 19:53:14 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[10-Sep-2018 19:54:36 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[10-Sep-2018 19:58:40 Asia/Manila] PHP Fatal error:  Class 'PHPExcel_IOFactory' not found in /home/jwsbmsin/public_html/application/controllers/Main.php on line 2003
+[10-Sep-2018 20:00:24 Asia/Manila] PHP Fatal error:  Call to a member function save() on a non-object in /home/jwsbmsin/public_html/application/controllers/Main.php on line 2004
+[10-Sep-2018 21:02:04 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[10-Sep-2018 21:38:58 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[10-Sep-2018 21:50:59 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[10-Sep-2018 22:00:37 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[10-Sep-2018 22:15:25 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[10-Sep-2018 22:18:15 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[10-Sep-2018 22:46:59 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[10-Sep-2018 23:06:23 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[12-Sep-2018 13:32:58 Asia/Manila] PHP Fatal error:  Call to undefined method JWS_model::getConBills() in /home/jwsbmsin/public_html/application/controllers/Main.php on line 1790
+[12-Sep-2018 13:35:56 Asia/Manila] PHP Fatal error:  Call to undefined method JWS_model::getConBills() in /home/jwsbmsin/public_html/application/controllers/Main.php on line 1790
+[13-Sep-2018 13:39:13 Asia/Manila] PHP Parse error:  syntax error, unexpected '.' in /home/jwsbmsin/public_html/application/views/con_bill_history.php on line 133
+[14-Sep-2018 13:15:32 Asia/Manila] PHP Parse error:  syntax error, unexpected '.' in /home/jwsbmsin/public_html/application/views/con_bill_history.php on line 77
+[14-Sep-2018 13:19:21 Asia/Manila] PHP Fatal error:  Can't use function return value in write context in /home/jwsbmsin/public_html/application/views/con_bill_history.php on line 131
+[14-Sep-2018 13:19:26 Asia/Manila] PHP Fatal error:  Can't use function return value in write context in /home/jwsbmsin/public_html/application/views/con_bill_history.php on line 131
+[14-Sep-2018 13:19:31 Asia/Manila] PHP Fatal error:  Can't use function return value in write context in /home/jwsbmsin/public_html/application/views/con_bill_history.php on line 131
+[14-Sep-2018 13:19:46 Asia/Manila] PHP Fatal error:  Can't use function return value in write context in /home/jwsbmsin/public_html/application/views/con_bill_history.php on line 131
+[14-Sep-2018 13:20:33 Asia/Manila] PHP Fatal error:  Can't use function return value in write context in /home/jwsbmsin/public_html/application/views/con_bill_history.php on line 131
+[14-Sep-2018 13:20:37 Asia/Manila] PHP Fatal error:  Can't use function return value in write context in /home/jwsbmsin/public_html/application/views/con_bill_history.php on line 131
+[14-Sep-2018 13:21:26 Asia/Manila] PHP Fatal error:  Can't use function return value in write context in /home/jwsbmsin/public_html/application/views/con_bill_history.php on line 131
+[14-Sep-2018 13:24:31 Asia/Manila] PHP Fatal error:  Can't use function return value in write context in /home/jwsbmsin/public_html/application/views/con_bill_history.php on line 131
+[14-Sep-2018 13:26:28 Asia/Manila] PHP Fatal error:  Can't use function return value in write context in /home/jwsbmsin/public_html/application/views/con_bill_history.php on line 131
+[14-Sep-2018 13:30:57 Asia/Manila] PHP Fatal error:  Function name must be a string in /home/jwsbmsin/public_html/application/controllers/Main.php on line 1796
+[15-Sep-2018 18:48:41 Asia/Manila] PHP Fatal error:  Call to a member function updateConsumerCounts() on a non-object in /home/jwsbmsin/public_html/application/controllers/Main.php on line 8
+[16-Sep-2018 15:15:12 Asia/Manila] PHP Fatal error:  Call to undefined method JWS_model::getTotalCU() in /home/jwsbmsin/public_html/application/controllers/Main.php on line 1742
+[17-Sep-2018 14:43:55 Asia/Manila] PHP Fatal error:  Call to undefined method JWS_model::getReportData() in /home/jwsbmsin/public_html/application/controllers/Main.php on line 1756
+[21-Sep-2018 14:36:03 Asia/Manila] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/jwsbmsin/public_html/application/third_party/PHPExcel/Calculation/Functions.php on line 581
+[21-Sep-2018 14:39:04 Asia/Manila] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/jwsbmsin/public_html/application/third_party/PHPExcel/Calculation/Functions.php on line 581
+[21-Sep-2018 14:47:22 Asia/Manila] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/jwsbmsin/public_html/application/third_party/PHPExcel/Calculation/Functions.php on line 581
+[21-Sep-2018 14:50:30 Asia/Manila] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/jwsbmsin/public_html/application/third_party/PHPExcel/Calculation/Functions.php on line 581
+[21-Sep-2018 14:56:39 Asia/Manila] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/jwsbmsin/public_html/application/third_party/PHPExcel/Calculation/Functions.php on line 581
+[21-Sep-2018 15:06:09 Asia/Manila] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/jwsbmsin/public_html/application/third_party/PHPExcel/Calculation/Functions.php on line 581
+[21-Sep-2018 15:06:50 Asia/Manila] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/jwsbmsin/public_html/application/third_party/PHPExcel/Calculation/Functions.php on line 581
+[21-Sep-2018 15:58:10 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[24-Sep-2018 14:00:34 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[24-Sep-2018 14:05:20 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[24-Sep-2018 14:11:32 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[24-Sep-2018 14:12:59 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[24-Sep-2018 14:15:05 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[24-Sep-2018 14:29:26 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/CachedObjectStorage/CacheBase.php on line 173
+[29-Sep-2018 11:13:04 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10520585 bytes) in /home/jwsbmsin/public_html/system/libraries/Zip.php on line 411
+[29-Sep-2018 11:16:25 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10520811 bytes) in /home/jwsbmsin/public_html/system/libraries/Zip.php on line 411
+[29-Sep-2018 11:23:15 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10520744 bytes) in /home/jwsbmsin/public_html/system/libraries/Zip.php on line 411
+[29-Sep-2018 13:15:03 Asia/Manila] PHP Fatal error:  Call to a member function setCellValueByColumnAndRow() on a non-object in /home/jwsbmsin/public_html/application/controllers/Main.php on line 2014
+[29-Sep-2018 13:15:27 Asia/Manila] PHP Fatal error:  Call to undefined method PHPExcel::setCellValueByColumnAndRow() in /home/jwsbmsin/public_html/application/controllers/Main.php on line 2014
+[29-Sep-2018 13:16:01 Asia/Manila] PHP Fatal error:  Call to a member function getActiveSheet() on a non-object in /home/jwsbmsin/public_html/application/controllers/Main.php on line 2010
+[03-Oct-2018 14:59:54 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10628901 bytes) in /home/jwsbmsin/public_html/system/libraries/Zip.php on line 411
+[07-Oct-2018 09:14:36 Asia/Manila] PHP Fatal error:  Function name must be a string in /home/jwsbmsin/public_html/application/controllers/Main.php on line 34
+[07-Oct-2018 09:15:24 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10628805 bytes) in /home/jwsbmsin/public_html/system/libraries/Zip.php on line 411
+[08-Oct-2018 22:26:01 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10558449 bytes) in /home/jwsbmsin/public_html/system/libraries/Zip.php on line 411
+[10-Oct-2018 09:32:49 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10558774 bytes) in /home/jwsbmsin/public_html/system/libraries/Zip.php on line 411
+[11-Oct-2018 11:01:46 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10560184 bytes) in /home/jwsbmsin/public_html/system/libraries/Zip.php on line 411
+[14-Oct-2018 12:42:58 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 79 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/Reader/Excel5.php on line 4074
+[14-Oct-2018 12:43:20 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 79 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/Reader/Excel5.php on line 4074
+[14-Oct-2018 12:44:23 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 79 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/Reader/Excel5.php on line 4074
+[14-Oct-2018 12:44:53 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/jwsbmsin/public_html/application/third_party/PHPExcel/Cell.php on line 550
+[29-Oct-2018 10:51:16 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10554754 bytes) in /home/jwsbmsin/public_html/system/libraries/Zip.php on line 411
+[29-Oct-2018 10:51:31 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10554974 bytes) in /home/jwsbmsin/public_html/system/libraries/Zip.php on line 411
+[29-Oct-2018 10:51:35 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10554987 bytes) in /home/jwsbmsin/public_html/system/libraries/Zip.php on line 411
+[29-Jan-2019 20:09:13 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10507372 bytes) in /home/jwsbmsin/public_html/system/libraries/Zip.php on line 411
+[29-Jan-2019 20:17:15 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 10507430 bytes) in /home/jwsbmsin/public_html/system/libraries/Zip.php on line 411

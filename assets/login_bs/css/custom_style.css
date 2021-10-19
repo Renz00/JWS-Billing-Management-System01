@@ -1,0 +1,40 @@
+
+body{
+	
+	background-color: 	#d1e7ff;
+}
+		
+.img-thumbnail{
+			
+	background-color: 	white;
+			
+}
+#sidebar-wrapper{
+			
+	background-color: 	#0c0042;
+			
+}
+		
+.navbar{
+			
+	background-color: 	#0c0042;
+	color: white;
+}
+		
+.breadcrumb{
+	
+	font-size:12px;	
+}
+
+thead{
+			
+	background-color: #7ccfff;
+		
+}
+
+.pull_right{
+	
+	float: right !important;
+	
+}
+
