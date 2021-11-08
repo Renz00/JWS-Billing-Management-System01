@@ -7,3 +7,6 @@
  HTML, Bootstrap, and Javascript for Frontend<br/>
  Codeigniter PHP Framework for Backend<br/>
  MySQL for Database<br/>
+ 
+ Database Structure: <br/>
+![1](https://user-images.githubusercontent.com/88235225/140684546-56f76beb-555b-4050-b8b1-643302f5e5a1.jpg)
