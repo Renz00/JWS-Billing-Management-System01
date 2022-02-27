@@ -16,3 +16,5 @@ System Screenshots: <br/>
 ![2](https://user-images.githubusercontent.com/88235225/155880171-208e7911-6e16-4ba6-bebe-52556d7c9160.png)
 ![2](https://user-images.githubusercontent.com/88235225/155880175-1874631c-e728-4ad5-b861-07b17512346d.png)
 ![4](https://user-images.githubusercontent.com/88235225/155880178-a03d68e5-c6f6-48be-85dc-91e83251f4cb.png)
+
+*All INFORMATION SHOWN IN THE IMAGES ABOVE ARE ONLY SAMPLE DATA AND DOOES NOT REPRESENT THE REAL LIFE INFORMATION OF ANY INDIVIDUALS...
