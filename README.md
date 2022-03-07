@@ -1,7 +1,7 @@
 # JWS-Billing-Management-System
  My College Thesis <br/>
  This is a web based billing management system we developed for the Juban Water System <br/>
- Author: Renz De la Torre
+ Author: Renz De la Torre <br/>
  Live Demo Site: http://online-ordering-system0011.000webhostapp.com/
  
  Technologies used:<br/>
