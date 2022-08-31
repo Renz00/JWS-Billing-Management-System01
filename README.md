@@ -2,7 +2,7 @@
  My College Thesis <br/>
  This is a web based billing management system we developed for the Juban Water System <br/>
  Author: Renz De la Torre <br/>
- Live Demo Site: <a href="http://online-ordering-system0011.000webhostapp.com" target="_blank">http://online-ordering-system0011.000webhostapp.com/</a>
+ Live Demo Site: <a href="http://jwsbms.000webhostapp.com" target="_blank">http://online-ordering-system0011.000webhostapp.com/</a>
  
  Technologies used:<br/>
  HTML, Bootstrap, and Javascript for Frontend<br/>
