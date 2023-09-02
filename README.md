@@ -1,7 +1,9 @@
 # JWS-Billing-Management-System
- This is a web based billing management system I developed for the Juban Water System <br/>
  Author: Renz De la Torre <br/>
  Live Demo Site: <a href="http://jwsbms.000webhostapp.com" target="_blank">http://jwsbms.000webhostapp.com</a>
+
+Full Project Documentation: https://drive.google.com/file/d/1_ywy6fjaZIusSvFCUWbdxxF3ZuNbW42y/view?usp=sharing
+User Manual: https://drive.google.com/file/d/1GN_WCmXXUmP9WyTGmugSfPH9BJNElWu1/view?usp=sharing
  
  Technologies used:<br/>
  HTML, Bootstrap, and Javascript for Frontend<br/>
